@@ -1,0 +1,9 @@
+msg:
+  name: Shubhan
+  val: from microservices specific configuration file
+  list: one,two,three
+  map: "{name:'raja',sub:'java'}"
+db:
+   connection: repo connection
+   port: 1234
+   host: local
